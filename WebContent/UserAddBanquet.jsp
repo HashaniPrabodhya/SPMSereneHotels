@@ -65,7 +65,7 @@ body{
 	width: 100%;
 }
 form button.submit{
-	background: rgba(255,255,255,0.25);
+	background:rgba(255,255,255,0.25);
 	border: 1px solid #333;
 	line-height: 1em;
 	padding: 0.5em 0.5em;
