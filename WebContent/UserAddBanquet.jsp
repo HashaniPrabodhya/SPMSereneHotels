@@ -163,8 +163,8 @@ form label.checkbox span:before{
 		top: 1px;
 }
 form label.checkbox input:checked + span:before{content: '\e067';}
-form label.invalid{border-color: #c0392b !important;}
-form label.invalid span.label-text{color: #c0392b;}
+form label.invalid{border-color:#c0392b !important;}
+form label.invalid span.label-text{color:#c0392b;}
 form label.password{position: relative;}
 form label.password button.toggle-visibility{
 	background: none;
