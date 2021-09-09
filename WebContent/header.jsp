@@ -44,8 +44,8 @@
 }
 /*hovering effects in header*/
 .header a:hover {
-  background-color: #529B7B;
-  color: white;
+  background-color:#529B7B;
+  color:white;
 }
 /*2 options on the right side of the header*/
 .header__right {
