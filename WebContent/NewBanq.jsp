@@ -51,18 +51,18 @@
 				</fieldset>
 
 				<fieldset class="form-group">
-					<label style="color:black;"> Additional Services</label> <input type="text"
+					<label style="color:black;">Additional Services</label> <input type="text"
 						value="<c:out value='${user.additional}' />" class="form-control"
 						name="additional">
 				</fieldset>
 				<fieldset class="form-group">
-					<label style="color:black;"> Decorations</label> <input type="text"
+					<label style="color:black;">Decorations</label> <input type="text"
 						value="<c:out value='${user.decoration}' />" class="form-control"
 						name="decoration" required="required">
 				</fieldset>
 
 				<fieldset class="form-group">
-					<label style="color:black;"> Date</label> <input type="text"
+					<label style="color:black;">Date</label> <input type="text"
 						value="<c:out value='${user.date}' />" class="form-control"
 						name="Date">
 				</fieldset>
