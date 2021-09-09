@@ -76,14 +76,14 @@ form button:hover,
 form button:focus,
 form button:active,
 form button.loading{
-	background: #333;
-	color: #fff;
+	background:#333;
+	color:#fff;
 	outline:none;
 }
 form button.success{
-	background: #27ae60;
-	border-color: #27ae60; 
-	color: #fff;
+	background:#27ae60;
+	border-color:#27ae60; 
+	color:#fff;
 }
 @-webkit-keyframes spin{
 	from{ transform: rotate(0deg); }
