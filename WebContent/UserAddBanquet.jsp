@@ -10,7 +10,7 @@
 body{
 	background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegoldencrownhotel.com%2Fweddings%2F&psig=AOvVaw3ZK1qxdHCZ_Og6rUvncC0_&ust=1602428542085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCkk_eequwCFQAAAAAdAAAAABAD') center no-repeat;
 	background-size: cover;
-	color: #333;
+	color:#333;
 	font-size: 18px;
 	font-family: 'Raleway', sans-serif;
 }
