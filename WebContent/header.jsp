@@ -59,8 +59,8 @@
 }
 /*current page detecting from header right*/
 .header__right a.active {
-	background-color: black;
-	color: white;
+	background-color:black;
+	color:white;
 }
 /*top navigation bar*/
 .topnav {
