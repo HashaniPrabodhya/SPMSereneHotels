@@ -39,13 +39,13 @@
 				</c:if>
 				<div class="container text-left">
 				<fieldset class="form-group"> 
-					<label style="color:black;"> Guest Name</label> <input type="text" 
+					<label style="color:black;">Guest Name</label> <input type="text" 
 						value="<c:out value='${user.guest}' />" class="form-control"
 						name="guest" required="required">
 				</fieldset>
 
 				<fieldset class="form-group">
-					<label style="color:black;"> Mobile</label> <input type="text"
+					<label style="color:black;">Mobile</label> <input type="text"
 						value="<c:out value='${user.mobile}' />" class="form-control"
 						name="mobile">
 				</fieldset>
