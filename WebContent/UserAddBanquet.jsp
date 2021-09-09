@@ -78,7 +78,7 @@ form button:active,
 form button.loading{
 	background: #333;
 	color: #fff;
-	outline: none;
+	outline:none;
 }
 form button.success{
 	background: #27ae60;
