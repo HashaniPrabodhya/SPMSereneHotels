@@ -31,7 +31,8 @@ String sql ="select * from rooms where roomNo = '"+roomNo+"'";
 resultSet = statement.executeQuery(sql);
 while(resultSet.next()){
 %>
-     
+  
+  <!-- Edit room view -->   
      
 <!DOCTYPE html>
 <html>
