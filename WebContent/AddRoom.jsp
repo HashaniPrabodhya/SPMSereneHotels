@@ -228,7 +228,7 @@ background-color:#34495E; /*#5D6D7E*/
 </div>
 
 
-	
+<!-- Add room view -->	
 			 
 <center>
 <center><h1 style="color:#AEB6BF;"><b/>Add Room</h1></center>

@@ -2,6 +2,9 @@
     pageEncoding="ISO-8859-1"%>
 <%@page import="java.sql.*,java.util.*"%>
 
+
+<!-- Insert processed page -->
+
 <%
 String roomNo=request.getParameter("roomNo");
 int floorNo=Integer.parseInt(request.getParameter("floorNo"));
