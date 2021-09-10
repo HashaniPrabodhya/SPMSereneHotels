@@ -214,7 +214,7 @@ background-color:#34495E; /*#5D6D7E*/
   
   
 </div>
-
+<!-- Login view -->
 
 <center>
 <h1 style="color:#AEB6BF;"><b/>Admin Login</h1><br/>

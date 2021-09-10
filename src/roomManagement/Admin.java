@@ -1,7 +1,11 @@
 package roomManagement;
 
+// Admin model class
+
 public class Admin {
  
+	//declare attributes
+	
  private String admin_un;
  private String admin_pw;
 public String getAdmin_un() {
