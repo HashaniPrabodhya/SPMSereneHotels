@@ -16,22 +16,35 @@ The project, Hotel Management System is a web-based application that allows to h
 All the above-mentioned details and information are store in the database. It could save time when retrieving data from the database. Also, functions will be displayed in a simple manner. The system is hence useful for both customers and managers to portable manage the hotel activities.
 
 
+
+
+
 1.	Room Details Management
 In this function admin manages the room details. admin can add new room to the system by filling the room registration form. admin can update room condition, price of the room, room status etc. if any room use other purposes admin can delete the room from the system. admin can search the room, by room number and also generate the monthly report of the room details.
+
+
 
 2.	Banquet hall management
 Admin of the banquet hall will manage this function. Manual bookings are added to the system by the admin using admin side interface while customers can book through customer side interface. Availability of the hall, additional services and type of the event will be noted here. Basically, banquet halls rented for the events like meetings, weddings, registrations, engagements, puberty ceremonies, and birthdays. Also we can customize the hall set up for their wish. In addition to that if the customer need catering service, we will arrange it. Or else they can bring    their own food. Everything must be registered in the system. Finally report will be generated from this module.
 
- Functions of the system
-•	Maintains banquet hall details (Add, Delete, Update)
-•	Book banquet hall
-•	Cancellation of the booked function
-•	Generate report   
+
+   Functions of the Banquet hall Management
+
+    •	Maintains banquet hall details (Add, Delete, Update)
+    
+    •	Book banquet hall
+    
+    •	Cancellation of the booked function
+    
+    •	Generate report   
+
 
 
 
 3.	Room Reservation System
 Room reservation system aims to provide an efficient and convenient way of reserving rooms for customers. Customer can view available       rooms and view detailed information of rooms. Customer can select the check in and check out dates and time and get available rooms according to that date. Customer can make a reservation online for available rooms and user can cancel or change the reservation online. Manager can add or delete rooms on availability. Manager can view customer details including checking and checkout dates.
+
+
 
 
 4.  Staff Management
